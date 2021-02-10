@@ -31,6 +31,9 @@ p{
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
+    background-color:lightgray;
+    font-style: italic;
+    
 }
 
 li{
